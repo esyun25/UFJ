@@ -1,0 +1,69 @@
+@charset "UTF-8";
+#lpChat {
+  font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif !important; }
+  #lpChat .lp_visitor .lp_chat_line {
+    padding: 12px 10px !important; }
+  #lpChat .lp_visitor .lp_title_text {
+    font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif !important;
+    font-size: 16px !important;
+    line-height: 1.4 !important; }
+    #lpChat .lp_visitor .lp_title_text a {
+      display: inline !important; }
+  #lpChat .lp_agent .lp_chat_line {
+    padding: 12px 10px !important;
+    max-width: 80% !important;
+    min-width: 80% !important; }
+  #lpChat .lp_agent .lp_title_text {
+    font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif !important;
+    font-size: 16px !important;
+    line-height: 1.4 !important; }
+    #lpChat .lp_agent .lp_title_text a {
+      display: inline !important; }
+    #lpChat .lp_agent .lp_title_text .lp-json-pollock .lp-json-pollock-layout {
+      max-width: 95% !important;
+      min-width: 95% !important; }
+      #lpChat .lp_agent .lp_title_text .lp-json-pollock .lp-json-pollock-layout .lp-json-pollock-element-text {
+        font-size: 16px !important; }
+  #lpChat .chips-wrapper {
+    padding: 0 !important; }
+  #lpChat .chips-nav.chips-nav-left {
+    display: none !important; }
+  #lpChat .chips-nav.chips-nav-right {
+    display: none !important; }
+  #lpChat .chips-row {
+    flex-direction: column !important;
+    height: auto !important;
+    margin: 10px !important; }
+    #lpChat .chips-row .chips-item {
+      width: 100% !important;
+      margin-bottom: 12px !important;
+      color: #5a5a5a !important;
+      background-color: #fafafa !important;
+      border: 1px solid #cccccc !important;
+      text-align: center !important;
+      line-height: 20px !important;
+      border-radius: 22px !important;
+      font-size: 16px !important;
+      font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif !important;
+      min-height: 44px !important;
+      height: auto !important;
+      white-space: normal !important;
+      padding: 10px !important;
+      box-sizing: border-box;
+      text-decoration: none !important; }
+      #lpChat .chips-row .chips-item:last-child {
+        margin-bottom: 0px !important; }
+
+.lp_desktop #lpChat .lp_visitor .lp_title_text {
+  font-size: 14px !important; }
+
+.lp_desktop #lpChat .lp_agent .lp_title_text {
+  font-size: 14px !important; }
+  .lp_desktop #lpChat .lp_agent .lp_title_text .lp-json-pollock .lp-json-pollock-layout .lp-json-pollock-element-text {
+    font-size: 14px !important; }
+
+.lp_desktop #lpChat .chips-row .chips-item {
+  font-size: 14px !important;
+  min-height: 40px !important;
+  padding: 9px !important; }
+
