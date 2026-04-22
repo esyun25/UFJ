@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/menu/icon_menu_cashcard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ico/menu/icon_menu_cashcard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-8" x="0" y="0" width="36" height="36"></rect>
+        <path d="M9.95795943,12.9090397 C10.0224566,12.3819222 10.1192023,11.591246 10.2481965,10.5370112 C10.3394254,9.78292894 11.0958173,9.24941289 11.9284256,9.35218979 L28.1279131,11.3315113 C28.9605215,11.4319786 29.5656349,12.1340949 29.4732512,12.8858675 L28.3323121,22.2293273 C28.2410832,22.9810999 27.481227,23.5157707 26.652083,23.4141486" id="Stroke-1" stroke="#313131" stroke-width="1.80000007" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M16.8969382,26.6286406 L8.52235292,26.6286406 C7.70360209,26.6286406 7.02920085,25.9565489 7.02920085,25.1354885 L7.02920085,14.9594204 C7.02920085,14.13836 7.7012925,13.4674231 8.52235292,13.4674231 L24.5035838,13.4674231 C25.3246442,13.4674231 25.9967359,14.1406696 25.9967359,14.9594204 L25.9967359,25.1354885 C25.9967359,25.9542393 25.3234894,26.6286406 24.5035838,26.6286406 L16.8969382,26.6286406" id="Stroke-5" stroke="#313131" stroke-width="1.80000007" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M9.13705117,24.3370621 L10.8242091,24.3370621" id="Stroke-7" stroke="#313131" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M12.8776685,24.3370621 L14.975934,24.3370621" id="Stroke-9" stroke="#313131" stroke-linecap="round" stroke-linejoin="round"></path>
+        <polygon id="Fill-11" fill="#313131" points="7.0294318 19.027769 25.9969668 19.027769 25.9969668 16.5980769 7.0294318 16.5980769"></polygon>
+    </g>
+</svg>

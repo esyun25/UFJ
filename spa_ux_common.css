@@ -1,0 +1,9 @@
+a:hover,
+button:hover:not([disabled]),
+label.radio:hover,
+label.checkbox:hover,
+.card-radio:hover:not([disabled]),
+.hoverable:hover:not([disabled]) {
+  opacity: 0.8;
+  cursor: pointer;
+}

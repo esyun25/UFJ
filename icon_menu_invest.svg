@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/menu/icon_menu_invest</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ico/menu/icon_menu_invest" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-8" x="0" y="0" width="36" height="36"></rect>
+        <polyline id="Stroke-1" stroke="#313131" stroke-width="1.89999998" points="8.11905888 20.2738358 17.4264913 11.0866143 20.7167701 13.8976494 27.0291032 7.66713959"></polyline>
+        <polyline id="Stroke-3" stroke="#313131" stroke-width="1.89999998" points="20.7257551 7.66713959 27.0291032 7.66713959 27.0291032 13.9704877"></polyline>
+        <path d="M13.5090755,20.6287683 L13.5090755,28.3328604" id="Stroke-5" stroke="#313131" stroke-width="1.89999998"></path>
+        <path d="M18.7618656,18.5276522 L18.7618656,28.3328604" id="Stroke-7" stroke="#313131" stroke-width="1.89999998"></path>
+        <path d="M24.0146557,16.4265362 L24.0146557,28.3328604" id="Stroke-9" stroke="#313131" stroke-width="1.89999998"></path>
+    </g>
+</svg>

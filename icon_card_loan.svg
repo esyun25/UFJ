@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="48px" viewBox="0 0 64 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_card_loan</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon_card_loan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="カードローン" transform="translate(15.000000, 6.000000)" stroke="#313131">
+            <g id="Group" transform="translate(4.000000, 0.000000)" fill="#313131">
+                <path d="M2,0.585352854 C1.41740381,0.791271058 1,1.34689059 1,2 L1,11.5 L2,11.5 L2,0.585352854 Z" id="Rectangle-2"></path>
+                <path d="M27.9899979,2.22999573 L27.9899979,19.1446429 C28.5725941,18.9387247 28.9899979,18.3831051 28.9899979,17.7299957 L28.9899979,2.22999573 L27.9899979,2.22999573 Z" id="Rectangle-2"></path>
+                <rect id="Rectangle-2" transform="translate(21.750000, 18.979996) rotate(90.000000) translate(-21.750000, -18.979996) " x="21.5" y="13.4799957" width="1" height="11"></rect>
+                <path d="M16.5,-11.9146471 C15.9174038,-11.7087289 15.5,-11.1531094 15.5,-10.5 L15.5,14 L16.5,14 L16.5,-11.9146471 Z" id="Rectangle-2" transform="translate(16.000000, 1.000000) rotate(90.000000) translate(-16.000000, -1.000000) "></path>
+                <rect id="Rectangle-2" transform="translate(21.399997, 14.550000) rotate(90.000000) translate(-21.399997, -14.550000) " x="20.8999969" y="11.8" width="1" height="5.5"></rect>
+                <rect id="Rectangle-2" transform="translate(15.125000, 6.000000) rotate(90.000000) translate(-15.125000, -6.000000) " x="14.625" y="-6.375" width="1" height="24.75"></rect>
+            </g>
+            <g id="2pt" transform="translate(2.000000, 16.000000)" stroke-linejoin="round" stroke-width="2">
+                <path d="M0.0612338462,4.25145299 C0.0612338462,1.99443162 3.18215692,0.164747863 7.03129538,0.164747863 C10.8804338,0.164747863 13.9998492,1.99443162 13.9998492,4.25145299" id="Stroke-7"></path>
+                <path d="M14,7.80545171 C14,10.0609303 10.8805846,11.8921568 7.03144615,11.8921568 C3.18230769,11.8921568 0.0613846154,10.0609303 0.0613846154,7.80545171" id="Stroke-9" stroke-linecap="round"></path>
+                <path d="M14,11.3594504 C14,13.6164718 10.8805846,15.4461556 7.03144615,15.4461556 C3.18230769,15.4461556 0.0613846154,13.6164718 0.0613846154,11.3594504" id="Stroke-11" stroke-linecap="round"></path>
+                <path d="M0.0612338462,4.25145299 L0.0612338462,14.9132949 C0.0612338462,17.171859 3.18215692,19 7.03129538,19 C10.8804338,19 13.9998492,17.171859 13.9998492,14.9132949 L13.9998492,4.25145299" id="Stroke-13"></path>
+                <path d="M14,4.25145299 C14,6.50693162 10.8805846,8.33661538 7.03144615,8.33661538 C3.18230769,8.33661538 0.0613846154,6.50693162 0.0613846154,4.25145299" id="Stroke-15" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

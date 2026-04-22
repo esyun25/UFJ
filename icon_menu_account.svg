@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/menu/icon_menu_account</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ico/menu/icon_menu_account" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-8" x="0" y="0" width="36" height="36"></rect>
+        <g id="Group" transform="translate(9.000000, 7.000000)" stroke="#313131" stroke-width="1.80000007">
+            <path d="M4.02207265,5.17417777 C4.02207265,2.42690755 6.24896177,0.200018428 8.996232,0.200018428 C11.7447238,0.200018428 13.9716129,2.42690755 13.9716129,5.17417777 C13.9716129,7.921448 11.7447238,10.1483371 8.996232,10.1483371 C6.24896177,10.1483371 4.02207265,7.921448 4.02207265,5.17417777 Z" id="Stroke-1"></path>
+            <path d="M0.521103685,20.0966558 C0.521103685,15.0735947 4.31547252,11 8.99672062,11 C13.6779687,11 17.4723375,15.0735947 17.4723375,20.0966558" id="Stroke-3"></path>
+        </g>
+    </g>
+</svg>

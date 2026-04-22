@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/menu/icon_menu_alert</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ico/menu/icon_menu_alert" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-8" x="0" y="0" width="36" height="36"></rect>
+        <polyline id="Stroke-2" stroke="#313131" stroke-width="1.80000007" stroke-linejoin="round" points="21.9638776 11.828139 7.50952421 11.828139 7.50952421 24.6346902 28.0691923 24.6346902 28.0691923 18.6549538"></polyline>
+        <polyline id="Stroke-4" stroke="#313131" stroke-width="1.80000007" stroke-linejoin="round" points="7.50940515 11.776087 17.7892392 18.2042575 22.7297113 15.1148889"></polyline>
+        <path d="M31.9234411,11.775968 C31.9234411,13.9049525 30.1975602,15.6298381 28.0685756,15.6298381 C25.9405864,15.6298381 24.2147055,13.9049525 24.2147055,11.775968 C24.2147055,9.64698339 25.9405864,7.92209781 28.0685756,7.92209781 C30.1975602,7.92209781 31.9234411,9.64698339 31.9234411,11.775968" id="Fill-5" fill="#313131"></path>
+    </g>
+</svg>

@@ -1,1 +1,1 @@
-try{ ___sc13739.invoke("ib_cuddedcev_kav", {"sr":"https:\/\/directg.s.bk.mufg.jp\/tru.png","8":true,"15":true}); } catch(e) { }
+try{ ___sc13739.invoke("mq_ysmxay__lqwqv", {"sr":"https:\/\/directg.s.bk.mufg.jp\/tru.png","15":true,"8":true}); } catch(e) { }

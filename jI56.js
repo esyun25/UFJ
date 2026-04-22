@@ -1,1 +1,1 @@
-try{ ___sc13739.invoke("retog_baggrppwkv", {"13":true,"sr":"https:\/\/directg.s.bk.mufg.jp\/tru.png"}); } catch(e) { }
+try{ ___sc13739.invoke("rimxkxfyxhrxmwmg", {"sr":"https:\/\/directg.s.bk.mufg.jp\/tru.png","13":true}); } catch(e) { }

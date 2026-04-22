@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/menu/icon_menu_others</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ico/menu/icon_menu_others" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-8" x="0" y="0" width="36" height="36"></rect>
+        <circle id="Oval" stroke="#313131" stroke-width="1.79999995" cx="18" cy="18" r="10.3966439"></circle>
+        <g id="Group" transform="translate(10.608237, 15.984065)" fill="#313131">
+            <circle id="Oval-2" cx="7.5371057" cy="2.01593538" r="1.34395692"></circle>
+            <circle id="Oval-2-Copy" cx="1.96563735" cy="2.01593538" r="1.34395692"></circle>
+            <circle id="Oval-2-Copy-2" cx="13.108574" cy="2.01593538" r="1.34395692"></circle>
+        </g>
+    </g>
+</svg>

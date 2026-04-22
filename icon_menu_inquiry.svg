@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/menu/icon_menu_inquiry</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ico/menu/icon_menu_inquiry" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-8" x="0" y="0" width="36" height="36"></rect>
+        <g id="Group" transform="translate(7.374699, 7.374699)">
+            <rect id="Rectangle" fill="#313131" transform="translate(15.798456, 15.798456) rotate(-45.000000) translate(-15.798456, -15.798456) " x="13.5848513" y="11.4529473" width="4.42720873" height="8.69101671" rx="1"></rect>
+            <path d="M11.0680218,11.0680218 L12.8389053,12.8389053" id="Line" stroke="#313131" stroke-width="1.80000007" stroke-linecap="square"></path>
+            <circle id="Oval" stroke="#313131" stroke-width="1.80000007" cx="6.64077317" cy="6.6408131" r="6.19809222"></circle>
+        </g>
+    </g>
+</svg>

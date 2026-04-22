@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="48px" viewBox="0 0 64 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_housing_loan</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon_housing_loan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="住宅ローン" transform="translate(20.000000, 7.000000)">
+            <g id="Group-2" transform="translate(12.000000, 17.000000) scale(-1, 1) translate(-12.000000, -17.000000) " stroke="#313131" stroke-linejoin="round" stroke-width="2">
+                <polyline id="Stroke-1" stroke-linecap="round" points="0 12.64402 12 0.377353333 24 12.64402"></polyline>
+                <polyline id="Stroke-3" stroke-linecap="round" points="21.0483 9.63132667 12.0003 0.37766 2.9523 9.63132667 2.9523 22.1233933 6.3033 22.1233933"></polyline>
+                <g id="Group-17" transform="translate(10.000000, 15.000000)">
+                    <path d="M0.0612338462,4.25145299 C0.0612338462,1.99443162 3.18215692,0.164747863 7.03129538,0.164747863 C10.8804338,0.164747863 13.9998492,1.99443162 13.9998492,4.25145299" id="Stroke-7"></path>
+                    <path d="M14,7.80545171 C14,10.0609303 10.8805846,11.8921568 7.03144615,11.8921568 C3.18230769,11.8921568 0.0613846154,10.0609303 0.0613846154,7.80545171" id="Stroke-9" stroke-linecap="round"></path>
+                    <path d="M14,11.3594504 C14,13.6164718 10.8805846,15.4461556 7.03144615,15.4461556 C3.18230769,15.4461556 0.0613846154,13.6164718 0.0613846154,11.3594504" id="Stroke-11" stroke-linecap="round"></path>
+                    <path d="M0.0612338462,4.25145299 L0.0612338462,14.9132949 C0.0612338462,17.171859 3.18215692,19 7.03129538,19 C10.8804338,19 13.9998492,17.171859 13.9998492,14.9132949 L13.9998492,4.25145299" id="Stroke-13"></path>
+                    <path d="M14,4.25145299 C14,6.50693162 10.8805846,8.33661538 7.03144615,8.33661538 C3.18230769,8.33661538 0.0613846154,6.50693162 0.0613846154,4.25145299" id="Stroke-15" stroke-linecap="round"></path>
+                </g>
+            </g>
+            <polygon id="Fill-6" fill="#313131" points="22 11 18 5.7439549 18 0 22 0"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/menu/icon_menu_otp</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ico/menu/icon_menu_otp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-8" x="0" y="0" width="36" height="36"></rect>
+        <path d="M24.161766,17.9523331 L29.0283992,17.9523331 L29.0283992,19.7180574 C29.0283992,20.1638168 28.9819864,20.3254599 28.8948329,20.4884229 C28.8076793,20.6513858 28.679785,20.7792801 28.5168221,20.8664336 C28.3538591,20.9535872 28.192216,21 27.7464566,21 L25.4437086,21 C24.9979493,21 24.8363062,20.9535872 24.6733432,20.8664336 C24.5103802,20.7792801 24.3824859,20.6513858 24.2953324,20.4884229 C24.2081789,20.3254599 24.161766,20.1638168 24.161766,19.7180574 L24.161766,17.9523331 Z" id="Rectangle-5" fill="#313131"></path>
+        <circle id="Oval-2" stroke="#313131" stroke-width="1.80000007" cx="10.6047165" cy="17.6047165" r="6.60471646"></circle>
+        <path d="M17.5,17.5 L31.5,17.5" id="Line" stroke="#313131" stroke-width="1.80000007" stroke-linecap="round"></path>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="48px" viewBox="0 0 64 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_exchange</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon_exchange" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="外貨" transform="translate(16.000000, 12.000000)" stroke="#313131" stroke-width="2">
+            <polygon id="Stroke-1" stroke-linecap="round" points="0 24 32 24 32 0 0 0"></polygon>
+            <polyline id="Stroke-3" points="5 16 10.5659782 10.5942184 15.338234 15.2310493 23.8112203 7 27 10.0970021"></polyline>
+        </g>
+    </g>
+</svg>

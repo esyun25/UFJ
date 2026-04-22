@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/menu/icon_menu_basic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ico/menu/icon_menu_basic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-8" x="0" y="0" width="36" height="36"></rect>
+        <g id="Group-2" transform="translate(8.605026, 6.873380)" stroke="#313131" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.80000007">
+            <path d="M0.734659845,15.1784372 L0.734659845,1.17253723 C0.734659845,0.624779179 1.16202041,0.163216554 1.66857897,0.163216554 L17.1075581,0.163216554 C17.6141166,0.163216554 18.0414772,0.616993786 18.0414772,1.17253723 L18.0414772,20.7499986 C18.0414772,21.305542 17.6213165,21.7593193 17.1075581,21.7593193 L6.82107661,21.7593193" id="Stroke-5"></path>
+            <path d="M0.734659845,15.1784372 L5.88715749,15.1784372 C6.40091586,15.1784372 6.82107661,15.6322144 6.82107661,16.1877579 L6.82107661,21.7593193 L0.734659845,15.1784372 Z" id="Stroke-7"></path>
+            <path d="M4.71703294,7.60782027 L13.910465,7.60782027" id="Stroke-17"></path>
+            <path d="M4.71703294,4.09221187 L13.910465,4.09221187" id="Stroke-17-Copy"></path>
+            <path d="M4.71703294,11.1620405 L13.910465,11.1620405" id="Stroke-19"></path>
+            <path d="M10.2522216,15.1784372 L13.9103689,15.1784372" id="Stroke-23"></path>
+        </g>
+    </g>
+</svg>

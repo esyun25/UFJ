@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="25px" viewBox="0 0 47 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>明細</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pc/top/account1" transform="translate(-468.000000, -45.000000)" fill="#D8D8D8" stroke="#313131">
+            <g id="明細" transform="translate(467.000000, 45.000000)">
+                <path d="M7.58535285,1.5 L47.4146471,1.5 C47.2087289,0.917403814 46.6531094,0.5 46,0.5 L9,0.5 C8.34689059,0.5 7.79127106,0.917403814 7.58535285,1.5 Z" id="Rectangle"></path>
+                <path d="M6.5,6.5 L43.5,6.5 L43.5,5.5 L7,5.5 C6.72385763,5.5 6.5,5.72385763 6.5,6 L6.5,6.5 Z" id="Rectangle"></path>
+                <rect id="Rectangle" x="9.8999939" y="23.5" width="35.5999985" height="1"></rect>
+                <path d="M5.71026988,21.2897301 L5.71026988,22.2897301 L9.61026997,22.2897301 C10.2633794,22.2897301 10.8189989,21.8723263 11.0249171,21.2897301 L5.71026988,21.2897301 Z" id="Rectangle" transform="translate(8.410270, 21.789730) rotate(90.000000) translate(-8.410270, -21.789730) "></path>
+                <path d="M2.5,17.4000015 L2.5,17.9000015 C2.5,18.1761439 2.72385763,18.4000015 3,18.4000015 L39,18.4000015 C39.2761424,18.4000015 39.5,18.1761439 39.5,17.9000015 L39.5,17.4000015 L2.5,17.4000015 Z" id="Rectangle"></path>
+                <path d="M36,13 L36,14 L57.9146471,14 C57.7087289,13.4174038 57.1531094,13 56.5,13 L36,13 Z" id="Rectangle" transform="translate(47.000000, 13.500000) rotate(90.000000) translate(-47.000000, -13.500000) "></path>
+                <path d="M33.6100309,9.73194262 L33.6100309,10.7319426 L51.4455938,10.7319426 C51.2396756,10.1493464 50.6840561,9.73194262 50.0309466,9.73194262 L33.6100309,9.73194262 Z" id="Rectangle" transform="translate(42.570489, 10.231943) rotate(110.000000) translate(-42.570489, -10.231943) "></path>
+                <path d="M-3.71526904,9.44129261 L-3.71526904,10.4412926 L11.9847317,10.4412926 C12.6378411,10.4412926 13.1934607,10.0238888 13.3993789,9.44129261 L-3.71526904,9.44129261 Z" id="Rectangle" transform="translate(4.884731, 9.941293) rotate(111.000000) translate(-4.884731, -9.941293) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

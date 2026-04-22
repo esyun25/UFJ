@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/menu/icon_menu_secure</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ico/menu/icon_menu_secure" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-8" x="0" y="0" width="36" height="36"></rect>
+        <path d="M18.2882553,28.3952584 L17.8900762,28.3342113 L17.8195236,28.3103417 C11.9938583,26.3310646 8.07966352,21.6623364 8.07966352,16.6928088 L8.07966352,10.0648709 L8.48185601,9.81751409 C11.6858769,7.84732011 14.7071789,6.92971287 17.9899907,6.92971287 C18.0896938,6.92971287 18.1889745,6.93098028 18.2882553,6.93267017 C18.387536,6.93098028 18.4870279,6.92971287 18.5863086,6.92971287 C21.8691203,6.92971287 24.8904224,7.84732011 28.0944433,9.81751409 L28.496847,10.0648709 L28.496847,16.6928088 C28.496847,21.6621252 24.5826522,26.3310646 18.7569869,28.3103417 L18.6864343,28.3342113 L18.2882553,28.3952584 Z" id="Path" stroke="#313131" stroke-width="1.80000007"></path>
+    </g>
+</svg>

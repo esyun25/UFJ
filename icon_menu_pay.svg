@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/menu/icon_menu_pay</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ico/menu/icon_menu_pay" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-8" x="0" y="0" width="36" height="36"></rect>
+        <g id="new" transform="translate(4.608327, 10.224190)" stroke="#303131" stroke-linejoin="round">
+            <path d="M14.8977938,7.67462103 L26.1840012,7.67462103" id="Stroke-1" stroke-width="1.80000007" stroke-linecap="round"></path>
+            <polyline id="Stroke-3" stroke-width="1.80000007" stroke-linecap="round" points="21.2180699 2.70868978 26.1840012 7.67462103 21.2180699 12.6405523"></polyline>
+            <path d="M0,3.16013807 C0,1.41482308 2.52638037,0 5.64279118,0 C8.75982703,0 11.2862074,1.41482308 11.2862074,3.16013807" id="Stroke-5" stroke-width="1.69999993"></path>
+            <path d="M11.2862074,6.03585215 C11.2862074,7.78055625 8.75982703,9.19599022 5.64341622,9.19599022 C2.52638037,9.19599022 0,7.78055625 0,6.03585215" id="Stroke-7" stroke-width="1.69999993" stroke-linecap="round"></path>
+            <path d="M11.2862074,8.86194162 C11.2862074,10.6069193 8.75982703,12.0220797 5.64341622,12.0220797 C2.52638037,12.0220797 0,10.6069193 0,8.86194162" id="Stroke-9" stroke-width="1.69999993" stroke-linecap="round"></path>
+            <path d="M0,3.16013807 L0,11.6454706 C0,13.4413514 2.52638037,14.8977938 5.64279118,14.8977938 C8.75982703,14.8977938 11.2862074,13.4413514 11.2862074,11.6454706 L11.2862074,3.16013807" id="Stroke-11" stroke-width="1.69999993"></path>
+            <path d="M11.2862074,3.16013807 C11.2862074,4.90545307 8.75982703,6.32027615 5.64341622,6.32027615 C2.52638037,6.32027615 0,4.90545307 0,3.16013807" id="Stroke-13" stroke-width="1.69999993" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="48px" viewBox="0 0 64 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_safe</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon_safe" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="定期new" transform="translate(17.000000, 11.000000)">
+            <path d="M30,18.3333333 C30,20.35 28.4117647,22 26.4705882,22 L3.52941176,22 C1.58823529,22 0,20.35 0,18.3333333 L0,3.66666667 C0,1.65 1.58823529,0 3.52941176,0 L26.4705882,0 C28.4117647,0 30,1.65 30,3.66666667 L30,18.3333333 Z" id="Stroke-1" stroke="#313131" stroke-width="2"></path>
+            <polygon id="Fill-3" fill="#313131" points="5.07524736 25.1854938 8.61287103 25.1854938 8.61287103 21.4186879 5.07524736 21.4186879"></polygon>
+            <polygon id="Fill-5" fill="#313131" points="20.9945539 25.1854938 24.5321776 25.1854938 24.5321776 21.4186879 20.9945539 21.4186879"></polygon>
+            <path d="M10.3816829,11.5504131 C10.3816829,13.0636206 9.19481013,14.292201 7.72846512,14.292201 C6.26388891,14.292201 5.07524736,13.0636206 5.07524736,11.5504131 C5.07524736,10.0372056 6.26388891,8.80862518 7.72846512,8.80862518 C9.19481013,8.80862518 10.3816829,10.0372056 10.3816829,11.5504131 Z" id="Stroke-6" stroke="#313131" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>

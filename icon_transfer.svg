@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="48px" viewBox="0 0 64 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_transfer</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon_transfer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="2.5pt" transform="translate(3.000000, 8.000000)" stroke="#303131" stroke-width="2.5">
+            <path d="M33,17 L58,17" id="Stroke-1" stroke-linecap="round"></path>
+            <polyline id="Stroke-3" stroke-linecap="round" points="47 6 58 17 47 28"></polyline>
+            <path d="M0,7 C0,3.13396482 5.59616769,0 12.4993077,0 C19.4038323,0 25,3.13396482 25,7" id="Stroke-5"></path>
+            <path d="M25,13 C25,16.864682 19.4038323,20 12.5006923,20 C5.59616769,20 0,16.864682 0,13" id="Stroke-7" stroke-linecap="round"></path>
+            <path d="M25,19.2600513 C25,23.1253392 19.4038323,26.2600513 12.5006923,26.2600513 C5.59616769,26.2600513 0,23.1253392 0,19.2600513" id="Stroke-9" stroke-linecap="round"></path>
+            <path d="M0,7 L0,25.7958014 C0,29.7738446 5.59616769,33 12.4993077,33 C19.4038323,33 25,29.7738446 25,25.7958014 L25,7" id="Stroke-11"></path>
+            <path d="M25,7 C25,10.8660352 19.4038323,14 12.5006923,14 C5.59616769,14 0,10.8660352 0,7" id="Stroke-13" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="48px" viewBox="0 0 64 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_key</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon_key" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OTP" transform="translate(12.000000, 15.000000)">
+            <rect id="Rectangle" fill="#313131" x="19" y="8" width="21" height="3"></rect>
+            <ellipse id="Oval" fill="#313131" cx="40" cy="9.5" rx="1" ry="1.5"></ellipse>
+            <path d="M29,10 L36,10 L36,13.7180574 C36,14.1638168 35.9535872,14.3254599 35.8664336,14.4884229 C35.7792801,14.6513858 35.6513858,14.7792801 35.4884229,14.8664336 C35.3254599,14.9535872 35.1638168,15 34.7180574,15 L30.2819426,15 C29.8361832,15 29.6745401,14.9535872 29.5115771,14.8664336 C29.3486142,14.7792801 29.2207199,14.6513858 29.1335664,14.4884229 C29.0464128,14.3254599 29,14.1638168 29,13.7180574 L29,10 Z" id="Rectangle-5" fill="#313131"></path>
+            <circle id="Oval-2" stroke="#313131" stroke-width="3" cx="9.5" cy="9.5" r="9.5"></circle>
+        </g>
+    </g>
+</svg>
